@@ -349,7 +349,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <br>
 <h2>🛠️ Tech & Tools Used So Far</h2>
 <ul>
-<li><b>HTML5, CSS3, JavaScript</b>(front & backend)</li> 
+<li><b>HTML5, CSS3, JavaScript</b> (front & backend)</li> 
 <li><b>Visual Studio Code</b> (IDE)</li>
 <li><b>Git & GitHub</b> (CLI + Desktop)</li>
 <li><b>Netlify</b> (site deployment)</li>
@@ -359,7 +359,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
    <li><b>React & API</b> (building connections between programs)</li>
 <li><b>Markdown</b> (project documentation)</li>
 <li><b>PerfectPixel</b> (image-to-code)</li>
-<li>Google Lighthouse (performance and accessibility evaluation)</li>
+<li><b>Google Lighthouse</b> (performance and accessibility evaluation)</li>
 <li><b>Google Colab</b> (write and execute Python in browser)</li>
 <li><b>Replit</b> (online coding environment)</li>
 <li><b>Code Sandbox</b> (development environment)</li>
