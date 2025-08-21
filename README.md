@@ -22,39 +22,39 @@ Directions: Click to see my projects
     </thead>
     <tbody>
       <tr>
-        <td>1. FreeCodeCamp Challenges</td>
+        <td><bold>1. FreeCodeCamp Challenges</bold>/td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Cat Photo App</td>
         <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-cat-photo-app.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Cat Blog Page</td>
         <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-cat-blog-page.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Hotel Feedback Form</td>
         <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-hotel-feedback-form.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
         <td>» Design A Cafe Menu</td>
         <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://design-a-cafe-menu.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
         <tr>
         <td>» Design a Greeting Card</td>
         <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://design-a-greeting-card.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
        <tr>
         <td>» Build a Set of Colored Markers</td>
         <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-set-of-colored-markers.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
            <tr>
         <td>2. SheCodes HTML Projects</td>
