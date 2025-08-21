@@ -107,7 +107,7 @@ Directions: Click to see my projects
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
-        <td>3. The Little Taco Shop Website</td>
+        <td>3. Freelance Gigs</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
