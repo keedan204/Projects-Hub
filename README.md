@@ -217,7 +217,6 @@ Directions: Click to see my projects
         </tbody>
   </table>
 </details>
-  
 <br>
 <details>
   <summary>🦘RESPONSIVE WEB DESIGNS</summary>
@@ -236,13 +235,13 @@ Directions: Click to see my projects
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
-              <td>» SheCodes React</td>
-        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003809.jpg" width="180" height="120" /></td>
+              <td>» SheCodes Responsive</td>
+        <td><img src="" width="180" height="120" /></td>
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
       </tr>
-            <td>» SheCodes React Add-On</td>
+            <td>» SheCodes Responsive Add-On</td>
         <td><img src="" width="180" height="120" /></td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
   </table>
