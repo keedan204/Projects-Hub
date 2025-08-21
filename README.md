@@ -2,10 +2,9 @@
 
 <h2>ℹ️ What Is This Hub?</h2>
 This Projects Hub showcases my journey as a self-taught full stack developer. It serves as a central repository for all of my web development projects. The hub is continuously evolving and will be updated regularly as new projects are completed and deployed.
-<br><br>
+<br>
 
 <h2>📚 Projects Directory</h2>
-<br>
 Directions: Click to see my projects
 <br>
 <details>
@@ -136,28 +135,31 @@ https://replit.com/@KMD204/Week5AdvancedPython
   <br>
 Coming 🔜
 </details>
-<br><br>
-
-
+<br>
 <h2>📈 Current & Future Goals</h2>
-My current focus is to move from a health services leadership role and parlay my tech skills into one (or each) of these directions:
-  <ul>
+<h3>🔹 Current Focus</h3>
+
+<p>I am transitioning from a leadership role in health services to pursue a career in tech, where I can combine my domain expertise with my growing technical skill set. My goal is to move into one (or more) of the following roles:</p>
+
+<ul>
   <li>Clinical Solutions Developer</li>
   <li>Tech Strategist for Public Health Innovation Hubs</li>
   <li>Healthcare Data Visualization Engineer</li>
 </ul>
 
-In order to acheive this goal, I seek to:
+<p>To achieve this, I am currently focused on:</p>
+
 <ul>
-<li>Land my first junior developer role to build on my knowldege base</li>
-<li>Explore open-source and freelancing opportunities</li>
-<li>Learn more by building web applications that solve real-world problems</li>
-<li>Improve performance, accessibility, and responsiveness</li>
-<li>Stay updated on latest frontend tech trends and best practices</li>
+  <li>Landing my first junior developer role to deepen my real-world experience</li>
+  <li>Contributing to open-source projects and exploring freelance opportunities</li>
+  <li>Building web applications that address real-world problems</li>
+  <li>Improving performance, accessibility, and responsiveness in everything I build</li>
+  <li>Staying current with the latest frontend technologies, tools, and best practices</li>
 </ul>
 
+<h3>🔹 Future Goals</h3>
 
-My future goals are to <bold>evolve into advanced roles in cybersecurity, AI, systems design, and cloud architecture, driving innovation and building secure, scalable solutions.</bold>
+<p>As I gain experience and expand my technical foundation, I aim to grow into advanced roles in <strong>cybersecurity</strong>, <strong>AI</strong>, <strong>systems design</strong>, and <strong>cloud architecture</strong>—with the overarching goal of driving innovation and building secure, scalable digital solutions for the healthcare and public health sectors.</p>
 <br><br>
 
 <h2>🛠️ Tech & Tools Used So Far</h2>
