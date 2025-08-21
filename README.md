@@ -115,45 +115,137 @@ Directions: Click to see my projects
 <br>
 <details>
   <summary>🚀 HTML + CSS + JAVASCRIPT PROJECTS</summary>
-  <br>
-SheCodes Plus
-https://shecode-weather-forecast-project.netlify.app/
-
-SheCodes Plus AI
-https://love-poems-204.netlify.app/
-
-SheCodes Plus Add-On
-https://world-clock-project204.netlify.app/
-
+<br>
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Preview</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><bold>1. SheCodes Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+      <tr>
+        <td>» SheCodes Plus -  Weather project with Vanilla JS</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20002144.jpg" width="180" height="120" /></td>
+        <td><a href="https://shecode-weather-forecast-project.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Weather-Forecast-Project">💻</a></td>
+      </tr>
+      <tr>
+        <td>» SheCodes Plus AI Love Poem Generator</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20002704.jpg" width="180" height="120" /></td>
+        <td><a href="https://love-poems-204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/love-poem-generator">💻</a></td>
+      </tr>
+    <tr>
+        <td>» SheCodes Plus Add-On - World Clock Project</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003138.jpg" width="180" height="120" /></td>
+        <td><a href="https://world-clock-project204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/World-Clock">💻</a></td>
+      </tr>
+    </tbody>
+  </table>
 </details>
 <br>
+
 <details>
   <summary>🧬REACT PROJECTS</summary>
   <br>
-SheCodes React
-https://www.weather.shecodes.io/
-
-SheCodes React Add-On
-
+  <details>
+  <summary>🚀 HTML + CSS + JAVASCRIPT PROJECTS</summary>
+<br>
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Preview</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><bold>1. SheCodes Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+              <td>» SheCodes React</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003809.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
+      </tr>
+            <td>» SheCodes React Add-On</td>
+        <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+        </tbody>
+  </table>
 </details>
 <br>
 <details>
   <summary>🐍PYTHON PROJECTS</summary>
   <br>
-Python Basics
-https://replit.com/@KMD204/Python-Basics-Final-Project?v=1#main.py
-
-Python AI
-https://colab.research.google.com/drive/1mA3D1Ih7ItFnRBZAJJG64FdPwpVOwQuq?usp=sharing
-
-Python Advanced
-https://replit.com/@KMD204/Week5AdvancedPython
+    <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Preview</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><bold>1. SheCodes Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+      <tr>
+              <td>» SheCodes Python Basics</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20004907.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="https://replit.com/@KMD204/Python-Basics-Final-Project?v=1#main.py">💻</a></td>
+      </tr>
+      <tr>      
+      <td>» SheCodes Python AI</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20005030.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="https://colab.research.google.com/drive/1mA3D1Ih7ItFnRBZAJJG64FdPwpVOwQuq?usp=sharing">💻</a></td>
+    </tr>
+     <tr>
+      <td>» SheCodes Python Advanced</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20005241.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="https://replit.com/@KMD204/Week5AdvancedPython">💻</a></td>
+      </tr>
+        </tbody>
+  </table>
 </details>
+  
 <br>
 <details>
   <summary>🦘RESPONSIVE WEB DESIGNS</summary>
   <br>
-Coming 🔜
+    <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Preview</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><bold>1. SheCodes Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+              <td>» SheCodes React</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003809.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
+      </tr>
+            <td>» SheCodes React Add-On</td>
+        <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+        </tbody>
+  </table>
 </details>
 
 <h2>📈 Current & Future Goals</h2>
