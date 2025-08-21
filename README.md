@@ -1,12 +1,10 @@
-# Projects-Hub
-Centralized portfolio showcasing my frontend and backend projects, built using modern HTML, CSS, JavaScript, Python and React
+# 🗂️ Projects-Hub - KeeDan204
+<hr>
 
-🗂️ Projects Hub – KeeDan204
-
-ℹ️ What Is This Hub?
+<h2>ℹ️ What Is This Hub?</h2>
 This Projects Hub reflects my journey as a self-taught full stack developer. It serves as a centralized place where I showcase all of my web development projects in its own dedicated repository. This hub is constantly evloving and growing and will be regularly updated as soon as a new project is deployed.
 
-📚 Projects Directory
+<h2>📚 Projects Directory</h2>
 Directions: Click to see my projects
 
 <details>
@@ -95,10 +93,9 @@ Directions: Click to see my projects
   </table>
 </details>
 
-
- 
-🚀 HTML + CSS + JAVASCRIPT PROJECTS
-Coming 🔜
+<details>
+  <summary>🚀 HTML + CSS + JAVASCRIPT PROJECTS</summary>
+  <br>
 
 
 SheCodes Plus
@@ -111,20 +108,26 @@ https://love-poems-204.netlify.app/
 SheCodes Plus Add-On
 https://world-clock-project204.netlify.app/
 
+</details>
 
 
-🧬REACT PROJECTS
+<details>
+  <summary>🧬REACT PROJECTS</summary>
+  <br>
+
 
 SheCodes React
 https://www.weather.shecodes.io/
 
 SheCodes React Add-On
 
+</details>
 
 
+<details>
+  <summary>🐍PYTHON PROJECTS</summary>
+  <br>
 
-🐍PYTHON PROJECTS
-Coming 🔜
 Python Basics
 https://replit.com/@KMD204/Python-Basics-Final-Project?v=1#main.py
 
@@ -134,16 +137,24 @@ https://colab.research.google.com/drive/1mA3D1Ih7ItFnRBZAJJG64FdPwpVOwQuq?usp=sh
 Python Advanced
 https://replit.com/@KMD204/Week5AdvancedPython
 
+</details>
 
-🦘RESPONSIVE WEB DESIGNS
+
+<details>
+  <summary>🦘RESPONSIVE WEB DESIGNS</summary>
+  <br>
 Coming 🔜
+</details>
 
 
 
-📈 Future Goals
+<h2>📈 Future Goals</h2>
+<hr>
 Coming 🔜
+<br>
 
-🛠️ Tech & Tools Used So Far
+<h2>🛠️ Tech & Tools Used So Far</h2>
+<hr>
 HTML5, CSS3, JavaScript, Node.js, Python, React
 Visual Studio Code (IDE)
 Git & GitHub (CLI + Desktop)
@@ -151,13 +162,18 @@ Netlify (site deployment)
 Markdown (project documentation)
 PerfectPixel (image-to-code)
 Google Lighthouse (performance and accessibility evaluation)
+Google Colab (write and execute Python in browser)
+Replit (online coding environment)
+Code Sandbox (development environment)
+<br>
 
-
-👩🏾💻 Author
-KeeDan204 — Full Stack Developer (in Progress)
+<h2>👩🏾💻 Author</h2>
+<hr>
+KeeDan204 — <i></i>Full Stack Developer (in Progress)</i>
 
 🗓️ Year: 2025
 
 🎯 Goal: Coming 🔜
 
-“I started this journey barely knowing what an HTML is. Now, I build and deploy full websites with confidence.”
+<em>“I started this journey knowing the limited HTML I learned on my MySpace.com page back in 1999. Now, I can build, deploy, debug interactive and responsive websites with a backend foundation”</em>
+<br>
