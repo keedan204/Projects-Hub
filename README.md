@@ -22,14 +22,14 @@ Directions: Click to see my projects
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. FreeCodeCamp Challenges</bold>/td>
+        <td><bold>1. FreeCodeCamp Challenges</bold></td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Cat Photo App</td>
-        <td>Site preview image.</td>
-        <td><a href="https://build-a-cat-photo-app.netlify.app/">🌐</a> | <a href="">💻</a></td>
+        <td><img src="[https://your-github-url/image.png](https://github.com/keedan204/Build-A-Cat-Photo-App/blob/main/Screenshot%202025-08-20%20210334.jpg)" width="1440" height="960" /></td>
+        <td><a href="https://build-a-cat-photo-app.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Cat-Photo-App">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Cat Blog Page</td>
