@@ -72,7 +72,7 @@ Directions: Click to see my projects
       <tr>
         <td>» Build a Nutritional Label</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20000325.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-nutritional-label">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-nutritional-label">🌐</a> | <a href="https://github.com/keedan204/Build-a-Nutritional-Label">💻</a></td>
       </tr>
            <tr>
         <td>» Build a Quiz Webpage</td>
@@ -172,7 +172,7 @@ Directions: Click to see my projects
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
       </tr>
             <td>» SheCodes React Add-On</td>
-        <td><img src="" width="180" height="120" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20010635.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
@@ -233,17 +233,17 @@ Directions: Click to see my projects
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
               <td>» SheCodes Responsive</td>
-        <td><img src="" width="180" height="120" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20010855.jpg" width="180" height="120" /></td>
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
       </tr>
             <td>» SheCodes Responsive Add-On</td>
-        <td><img src="" width="180" height="120" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20011104.jpg" width="180" height="120" /></td>
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
   </table>
 </details>
-
+<br>
 <h2>📈 Current & Future Goals</h2>
 <h3>🔹 Current Focus</h3>
 
@@ -268,7 +268,7 @@ Directions: Click to see my projects
 <h3>🔹 Future Goals</h3>
 
 <p>As I gain experience and expand my technical foundation, I aim to grow into advanced roles in <strong>cybersecurity</strong>, <strong>AI</strong>, <strong>systems design</strong>, and <strong>cloud architecture</strong>—with the overarching goal of driving innovation and building secure, scalable digital solutions for the healthcare and public health sectors.</p>
-
+<br>
 <h2>🛠️ Tech & Tools Used So Far</h2>
 <ul>
 <li>HTML5, CSS3, JavaScript, Node.js, Python, React</li>
@@ -282,8 +282,8 @@ Directions: Click to see my projects
 <li>Replit (online coding environment)</li>
 <li>Code Sandbox (development environment)</li>
 </ul>
-
+<br>
 <h2>👩🏾💻 Author</h2>
 <p>KeeDan204 — <i>Full Stack Developer (recent grad)</i></p>
 <p>🗓️ Year: September 2025</p>
-<p><em>“"I started this journey armed with nothing but the HTML I hacked into my MySpace profile in 1999. Now I build, deploy, and debug full-stack web apps that do a lot more than autoplay R&B love songs."”</em></p>
+<p><em>“I started this journey armed with nothing but the HTML I hacked into my MySpace profile in 1999. Now I build, deploy, and debug full-stack web apps that do a lot more than autoplay R&B love songs.”</em></p>
