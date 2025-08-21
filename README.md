@@ -239,10 +239,7 @@ Directions: Click to see my projects
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013404.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
-        </tbody>
-  </table>
 </details>
-
 <br>
 
 <details>
@@ -270,9 +267,10 @@ Directions: Click to see my projects
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20011104.jpg" width="180" height="120" /></td>
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
       </tr>
-<br>
-    </details>
-      
+    </tbody>
+  </table>
+</details>
+     <br> 
 <details>
   <summary>🔙BACKEND JAVASCRIPT</summary>
   <br>
@@ -297,10 +295,11 @@ Directions: Click to see my projects
   </tr>
   </details>
       <br>
-      <details>
+
+<details>
   <summary>🐚BASH & SQL</summary>
-  <br>
-    <table>
+<br>
+  <table>
     <thead>
       <tr>
         <th>Project</th>
