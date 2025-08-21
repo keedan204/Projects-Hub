@@ -11,9 +11,7 @@ Directions: Click to see my projects
 
 <details>
   <summary>📄 HTML PROJECTS</summary>
-
   <br>
-
   <table>
     <thead>
       <tr>
@@ -39,25 +37,32 @@ Directions: Click to see my projects
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
-        <td>» HTML Forms</td>
+        <td>» Build A Hotel Feedback Form</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
  <tr>
-        <td>» HTML Forms</td>
+        <td>» Design A Cafe Menu</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
-       <tr>
-        <td>» HTML Forms</td>
+        <tr>
+        <td>» Design a Greeting Card</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
+       <tr>
+          <tr>
+        <td>» Build a Set of Colored Markers</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      
       <tr>
            <tr>
-        <td>2. FreeCodeCamp Projects</td>
+        <td>2. SheCodes HTML Projects</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
@@ -112,7 +117,7 @@ Directions: Click to see my projects
 </details>
 
 
-        Build a Set of Colored Markers
+ 
 
  
 
