@@ -10,7 +10,7 @@ This Projects Hub reflects my journey as a self-taught full stack developer. It 
 Directions: Click to see my projects
 
 <details>
-  <summary>📄 HTML PROJECTS</summary>
+  <summary>🎨 HTML + CSS PROJECTS</summary>
   <br>
   <table>
     <thead>
@@ -43,21 +43,21 @@ Directions: Click to see my projects
       </tr>
       <tr>
         <td>» Design A Cafe Menu</td>
-        <td>Site preview image.</td>
+    <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221737.jpg" width="180" height="120" /></td>
         <td><a href="https://design-a-cafe-menu.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
         <tr>
         <td>» Design a Greeting Card</td>
-        <td>Site preview image.</td>
+           <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221807.jpg" width="180" height="120" /></td>
         <td><a href="https://design-a-greeting-card.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
        <tr>
         <td>» Build a Set of Colored Markers</td>
-        <td>Site preview image.</td>
+             <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221833.jpg" width="180" height="120" /></td>
         <td><a href="https://build-a-set-of-colored-markers.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
            <tr>
-        <td><bold>2. SheCodes HTML Projects</bold>bold></td>
+        <td><bold>2. SheCodes HTML Projects</bold></td>
              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -68,8 +68,8 @@ Directions: Click to see my projects
       </tr>
       <tr>
         <td>» SheCodes Basics Add-On</td>
-        <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+       <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221431.jpg" width="180" height="120" /></td>
+        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/556/312/original/BasicAddOn_-_Final_Project.html?1739914330">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
         <td>» Event Hub Page</td>
@@ -116,7 +116,7 @@ Directions: Click to see my projects
  
 
 <details>
-  <summary>🎨 HTML + CSS PROJECTS</summary>
+  <summary></summary>
 
   <br>
 
