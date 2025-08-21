@@ -154,7 +154,7 @@ Directions: Click to see my projects
       <tr>
         <td>» Coming soon</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013317.jpg" /></td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="#">🌐</a> | <a href="#">💻</a></td>
       </tr>
     </tbody>
   </table>
@@ -191,7 +191,7 @@ Directions: Click to see my projects
         <td><a href="">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
               <td>» Coming soon</td>
-        <td><img src="" width="180" height="120" /></td>
+        <td><img src="#" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
@@ -231,12 +231,12 @@ Directions: Click to see my projects
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="https://replit.com/@KMD204/Week5AdvancedPython">💻</a></td>
       </tr>
        <tr>
-        <td><bold>2. freeCodeCamp Python Projects</bold></td>
+        <td><bold>2. freeCodeCamp Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013404.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
               <td>» Coming soon</td>
-        <td><img src="" width="180" height="120" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013404.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
@@ -287,10 +287,10 @@ Directions: Click to see my projects
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
               <td>» Coming Soon</td>
-        <td><img src="" width="180" height="120" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013455.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
-
+      <br>
       <details>
   <summary>🐚BASH & SQL</summary>
   <br>
@@ -309,7 +309,7 @@ Directions: Click to see my projects
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
               <td>» Coming Soon</td>
-        <td><img src="" width="180" height="120" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013431.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
