@@ -28,18 +28,19 @@ Directions: Click to see my projects
       </tr>
       <tr>
         <td>» Build A Cat Photo App</td>
-        <td><img src="https://github.com/keedan204/Build-A-Cat-Photo-App/blob/main/Screenshot%202025-08-20%20210334.jpg?raw=true" width="360" height="240" /></td>
-        <td><a href="https://build-a-cat-photo-app.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Cat-Photo-App">💻</a></td>
+        <td><img src="https://github.com/keedan204/Build-A-Cat-Photo-App/blob/main/Screenshot%202025-08-20%20210334.jpg?raw=true" width="180" height="120" /></td>
+        <td><a href="https://build-a-cat-photo-app.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Cat-Photo-Appblob/main/index.html">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Cat Blog Page</td>
-        <td><img src="https://github.com/keedan204/Build-A-Cat-Blog-Page/blob/main/Screenshot%202025-08-20%20215047.jpg" width="360" height="240" /></td>
-        <td><a href="https://build-a-cat-blog-page.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Cat-Blog-Page">💻</a></td>
+        <td><img src="https://github.com/keedan204/Build-A-Cat-Blog-Page/blob/main/Screenshot%202025-08-20%20215047.jpg" width="180" height="120" /></td>
+        <td><a href="https://build-a-cat-blog-page.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Cat-Blog-Pageblob/main/index.html">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Hotel Feedback Form</td>
-        <td>Site preview image.</td>
-        <td><a href="https://build-a-hotel-feedback-form.netlify.app/">🌐</a> | <a href="">💻</a></td>
+       <td><img src="https://github.com/keedan204/Build-A-Hotel-Feeback-Form/blob/main/Screenshot%202025-08-20%20215410.jpg" width="180" height="120" /></td>
+       
+        <td><a href="https://build-a-hotel-feedback-form.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Hotel-Feeback-Form/blob/main/index.html">💻</a></td>
       </tr>
       <tr>
         <td>» Design A Cafe Menu</td>
