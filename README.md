@@ -159,7 +159,6 @@ My future goals are to<em>evolve into advanced roles in cybersecurity, AI, syste
 <br>
 
 <h2>🛠️ Tech & Tools Used So Far</h2>
-<hr>
 HTML5, CSS3, JavaScript, Node.js, Python, React
 Visual Studio Code (IDE)
 Git & GitHub (CLI + Desktop)
@@ -173,7 +172,6 @@ Code Sandbox (development environment)
 <br>
 
 <h2>👩🏾💻 Author</h2>
-<hr>
 KeeDan204 — <i></i>Full Stack Developer (in Progress)</i>
 <br>
 🗓️ Year: 2025
