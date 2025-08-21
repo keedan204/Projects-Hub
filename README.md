@@ -20,7 +20,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. freeCodeCamp Challenges</bold></td>
+        <td><bold>1. freeCodeCamp Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20215730.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="https://www.freecodecamp.org/learn/full-stack-developer/">💻</a></td>
       </tr>
@@ -95,7 +95,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-piano">🌐</a> | <a href="">💻</a></td>
       </tr>
            <tr>
-        <td><bold>2. SheCodes HTML Projects</bold></td>
+        <td><bold>2. SheCodes Projects</bold></td>
              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -132,17 +132,17 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
       <tr>
-        <td>» SheCodes Plus -  Weather project with Vanilla JS</td>
+        <td>» SheCodes + - Weather project (Vanilla JS)</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20002144.jpg" width="180" height="120" /></td>
         <td><a href="https://shecode-weather-forecast-project.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Weather-Forecast-Project">💻</a></td>
       </tr>
       <tr>
-        <td>» SheCodes Plus AI Love Poem Generator</td>
+        <td>» SheCodes +AI Love Poem Generator</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20002704.jpg" width="180" height="120" /></td>
         <td><a href="https://love-poems-204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/love-poem-generator">💻</a></td>
       </tr>
     <tr>
-        <td>» SheCodes Plus Add-On - World Clock Project</td>
+        <td>» SheCodes +Add-On - World Clock</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003138.jpg" width="180" height="120" /></td>
         <td><a href="https://world-clock-project204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/World-Clock">💻</a></td>
       </tr>
@@ -173,7 +173,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. SheCodes React Projects</bold></td>
+        <td><bold>1. SheCodes Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -186,7 +186,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
      <tr>
-        <td><bold>2. freeCodeCamp React Projects</bold></td>
+        <td><bold>2. freeCodeCamp Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013343.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -285,7 +285,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. freeCodeCamp Backend JS Projects</bold></td>
+        <td><bold>1. freeCodeCamp Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013455.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -310,7 +310,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. freeCodeCamp Relational Database Projects</bold></td>
+        <td><bold>1. freeCodeCamp Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013431.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -349,24 +349,24 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <br>
 <h2>🛠️ Tech & Tools Used So Far</h2>
 <ul>
-<li>HTML5, CSS3, JavaScript</li> 
-<li>Visual Studio Code (IDE)</li>
-<li>Git & GitHub (CLI + Desktop)</li>
-<li>Netlify (site deployment)</li>
-  <li>Bootstrap (CSS Framework for developing responsive and mobile-first websites)</li>
-   <li> Node.js (write command line tools and server-side scripting)</li>
-<li>Python & Object-Oriented Programming (file/data manipulation, data manipulation/structure)</li>
-   <li>React & API (building connections between programs)</li>
-<li>Markdown (project documentation)</li>
-<li>PerfectPixel (image-to-code)</li>
+<li><b>HTML5, CSS3, JavaScript</b>(front & backend)</li> 
+<li><b>Visual Studio Code</b> (IDE)</li>
+<li><b>Git & GitHub</b> (CLI + Desktop)</li>
+<li><b>Netlify</b> (site deployment)</li>
+  <li><b>Bootstrap</b> (CSS Framework for developing responsive and mobile-first websites)</li>
+   <li><b>Node.js</b> (write command line tools and server-side scripting)</li>
+<li><b>Python & Object-Oriented Programming</b> (file/data manipulation, data manipulation/structure)</li>
+   <li><b>React & API</b> (building connections between programs)</li>
+<li><b>Markdown</b> (project documentation)</li>
+<li><b>PerfectPixel</b> (image-to-code)</li>
 <li>Google Lighthouse (performance and accessibility evaluation)</li>
-<li>Google Colab (write and execute Python in browser)</li>
-<li>Replit (online coding environment)</li>
-<li>Code Sandbox (development environment)</li>
-  <li>Slack (cloud-based team communication platform) </li>
+<li><b>Google Colab</b> (write and execute Python in browser)</li>
+<li><b>Replit</b> (online coding environment)</li>
+<li><b>Code Sandbox</b> (development environment)</li>
+  <li><b>Slack</b> (cloud-based team communication platform) </li>
 </ul>
 <br>
 <h2>👩🏾💻 Author</h2>
 <p>KeeDan204 — <i>Full Stack Developer (recent grad)</i></p>
-<p>🗓️ Year: September 2025</p>
+<p>🗓️ Date: September 2025</p>
 <p><em>“I started this journey armed with nothing but the HTML I hacked into my MySpace profile in 1999. Now I build, deploy, and debug full-stack web apps that do a lot more than autoplay R&B love songs.”</em></p>
