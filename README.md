@@ -5,7 +5,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <br>
 
 <h2>📚 Projects Directory</h2>
-Directions: Click to see my projects
+<p>Directions: Click to see my projects</p>
 <br>
 <details>
   <summary>🎨 HTML + CSS PROJECTS</summary>
@@ -20,7 +20,7 @@ Directions: Click to see my projects
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. FreeCodeCamp Challenges</bold></td>
+        <td><bold>1. freeCodeCamp Challenges</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20215730.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="https://www.freecodecamp.org/learn/full-stack-developer/">💻</a></td>
       </tr>
@@ -153,7 +153,7 @@ Directions: Click to see my projects
       </tr>
       <tr>
         <td>» Coming soon</td>
-        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013317.jpg" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013317.jpg" width="180" height="120" /></td>
         <td><a href="#">🌐</a> | <a href="#">💻</a></td>
       </tr>
     </tbody>
@@ -191,7 +191,7 @@ Directions: Click to see my projects
         <td><a href="">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
               <td>» Coming soon</td>
-        <td><img src="#" width="180" height="120" /></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013343.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
@@ -285,7 +285,7 @@ Directions: Click to see my projects
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. freeeCodeCamp Backend JS Projects</bold></td>
+        <td><bold>1. freeCodeCamp Backend JS Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013455.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -310,7 +310,7 @@ Directions: Click to see my projects
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. freeeCodeCamp Relational Database Projects</bold></td>
+        <td><bold>1. freeCodeCamp Relational Database Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013431.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -349,16 +349,21 @@ Directions: Click to see my projects
 <br>
 <h2>🛠️ Tech & Tools Used So Far</h2>
 <ul>
-<li>HTML5, CSS3, JavaScript, Node.js, Python, React</li>
+<li>HTML5, CSS3, JavaScript</li> 
 <li>Visual Studio Code (IDE)</li>
 <li>Git & GitHub (CLI + Desktop)</li>
 <li>Netlify (site deployment)</li>
+  <li>Bootstrap (CSS Framework for developing responsive and mobile-first websites)</li>
+   <li> Node.js (write command line tools and server-side scripting)</li>
+<li>Python & Object-Oriented Programming (file/data manipulation, data manipulation/structure)</li>
+   <li>React & API (building connections between programs)</li>
 <li>Markdown (project documentation)</li>
 <li>PerfectPixel (image-to-code)</li>
 <li>Google Lighthouse (performance and accessibility evaluation)</li>
 <li>Google Colab (write and execute Python in browser)</li>
 <li>Replit (online coding environment)</li>
 <li>Code Sandbox (development environment)</li>
+  <li>Slack (cloud-based team communication platform) </li>
 </ul>
 <br>
 <h2>👩🏾💻 Author</h2>
