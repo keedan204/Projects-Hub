@@ -1,11 +1,13 @@
 # 🗂️ Projects-Hub - KeeDan204
 
 <h2>ℹ️ What Is This Hub?</h2>
-This Projects Hub reflects my journey as a self-taught full stack developer. It serves as a centralized place where I showcase all of my web development projects in its own dedicated repository. This hub is constantly evloving and growing and will be regularly updated as soon as a new project is deployed.
+This Projects Hub showcases my journey as a self-taught full stack developer. It serves as a central repository for all of my web development projects. The hub is continuously evolving and will be updated regularly as new projects are completed and deployed.
+<br><br>
 
 <h2>📚 Projects Directory</h2>
+<br>
 Directions: Click to see my projects
-
+<br>
 <details>
   <summary>🎨 HTML + CSS PROJECTS</summary>
   <br>
@@ -91,42 +93,34 @@ Directions: Click to see my projects
     </tbody>
   </table>
 </details>
-
+<br>
 <details>
   <summary>🚀 HTML + CSS + JAVASCRIPT PROJECTS</summary>
   <br>
-
-
 SheCodes Plus
 https://shecode-weather-forecast-project.netlify.app/
 
 SheCodes Plus AI
 https://love-poems-204.netlify.app/
 
-
 SheCodes Plus Add-On
 https://world-clock-project204.netlify.app/
 
 </details>
-
-
+<br>
 <details>
   <summary>🧬REACT PROJECTS</summary>
   <br>
-
-
 SheCodes React
 https://www.weather.shecodes.io/
 
 SheCodes React Add-On
 
 </details>
-
-
+<br>
 <details>
   <summary>🐍PYTHON PROJECTS</summary>
   <br>
-
 Python Basics
 https://replit.com/@KMD204/Python-Basics-Final-Project?v=1#main.py
 
@@ -135,40 +129,50 @@ https://colab.research.google.com/drive/1mA3D1Ih7ItFnRBZAJJG64FdPwpVOwQuq?usp=sh
 
 Python Advanced
 https://replit.com/@KMD204/Week5AdvancedPython
-
 </details>
-
-
+<br>
 <details>
   <summary>🦘RESPONSIVE WEB DESIGNS</summary>
   <br>
 Coming 🔜
 </details>
-
+<br><br>
 
 
 <h2>📈 Current & Future Goals</h2>
-My current focus is to move from a health services leadership role and parlay my tech skills into one of the following directions:
+My current focus is to move from a health services leadership role and parlay my tech skills into one (or each) of these directions:
   <ul>
-  <li>Clinical Solutions Developer (Remote or Hybrid)</li>
+  <li>Clinical Solutions Developer</li>
   <li>Tech Strategist for Public Health Innovation Hubs</li>
   <li>Healthcare Data Visualization Engineer</li>
 </ul>
 
-My future goals are to<em>evolve into advanced roles in cybersecurity, AI, systems design, and cloud architecture, driving innovation and building secure, scalable solutions.</em>
-<br>
+In order to acheive this goal, I seek to:
+<ul>
+<li>Land my first junior developer role to build on my knowldege base</li>
+<li>Explore open-source and freelancing opportunities</li>
+<li>Learn more by building web applications that solve real-world problems</li>
+<li>Improve performance, accessibility, and responsiveness</li>
+<li>Stay updated on latest frontend tech trends and best practices</li>
+</ul>
+
+
+My future goals are to <bold>evolve into advanced roles in cybersecurity, AI, systems design, and cloud architecture, driving innovation and building secure, scalable solutions.</bold>
+<br><br>
 
 <h2>🛠️ Tech & Tools Used So Far</h2>
-HTML5, CSS3, JavaScript, Node.js, Python, React
-Visual Studio Code (IDE)
-Git & GitHub (CLI + Desktop)
-Netlify (site deployment)
-Markdown (project documentation)
-PerfectPixel (image-to-code)
-Google Lighthouse (performance and accessibility evaluation)
-Google Colab (write and execute Python in browser)
-Replit (online coding environment)
-Code Sandbox (development environment)
+<ul>
+<li>HTML5, CSS3, JavaScript, Node.js, Python, React</li>
+<li>Visual Studio Code (IDE)</li>
+<li>Git & GitHub (CLI + Desktop)</li>
+<li>Netlify (site deployment)</li>
+<li>Markdown (project documentation)</li>
+<li>PerfectPixel (image-to-code)</li>
+<li>Google Lighthouse (performance and accessibility evaluation)</li>
+<li>Google Colab (write and execute Python in browser)</li>
+<li>Replit (online coding environment)</li>
+<li>Code Sandbox (development environment)</li>
+</ul>
 <br>
 
 <h2>👩🏾💻 Author</h2>
