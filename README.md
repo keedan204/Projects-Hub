@@ -160,8 +160,7 @@ Coming 🔜
 <h3>🔹 Future Goals</h3>
 
 <p>As I gain experience and expand my technical foundation, I aim to grow into advanced roles in <strong>cybersecurity</strong>, <strong>AI</strong>, <strong>systems design</strong>, and <strong>cloud architecture</strong>—with the overarching goal of driving innovation and building secure, scalable digital solutions for the healthcare and public health sectors.</p>
-<br><br>
-
+<br>
 <h2>🛠️ Tech & Tools Used So Far</h2>
 <ul>
 <li>HTML5, CSS3, JavaScript, Node.js, Python, React</li>
@@ -176,13 +175,10 @@ Coming 🔜
 <li>Code Sandbox (development environment)</li>
 </ul>
 <br>
-
 <h2>👩🏾💻 Author</h2>
-KeeDan204 — <i></i>Full Stack Developer (in Progress)</i>
+KeeDan204 — <i></i>Full Stack Developer (recent grad)</i>
 <br>
-🗓️ Year: 2025
-<br>
-🎯 Goal: Coming 🔜
+🗓️ Year: September 2025
 <br>
 <em>“I started this journey knowing the limited HTML I learned on my MySpace.com page back in 1999. Now, I can build, deploy, debug interactive and responsive websites with a backend foundation”</em>
 <br>
