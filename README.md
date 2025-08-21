@@ -56,8 +56,6 @@ Directions: Click to see my projects
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
-      
-      <tr>
            <tr>
         <td>2. SheCodes HTML Projects</td>
         <td>Site preview image.</td>
@@ -110,7 +108,6 @@ Directions: Click to see my projects
       </tr>
     </tbody>
   </table>
-
 </details>
 
 
