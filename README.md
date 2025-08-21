@@ -33,8 +33,8 @@ Directions: Click to see my projects
       </tr>
       <tr>
         <td>» Build A Cat Blog Page</td>
-        <td>Site preview image.</td>
-        <td><a href="https://build-a-cat-blog-page.netlify.app/">🌐</a> | <a href="">💻</a></td>
+        <td><img src="https://github.com/keedan204/Build-A-Cat-Blog-Page/blob/main/Screenshot%202025-08-20%20215047.jpg" width="360" height="240" /></td>
+        <td><a href="https://build-a-cat-blog-page.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Cat-Blog-Page">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Hotel Feedback Form</td>
