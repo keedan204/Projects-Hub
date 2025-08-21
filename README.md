@@ -146,6 +146,16 @@ Directions: Click to see my projects
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003138.jpg" width="180" height="120" /></td>
         <td><a href="https://world-clock-project204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/World-Clock">💻</a></td>
       </tr>
+      <tr>
+        <td><bold>2. freeCodeCamp Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013317.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Coming soon</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013317.jpg" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -163,7 +173,7 @@ Directions: Click to see my projects
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. SheCodes Projects</bold></td>
+        <td><bold>1. SheCodes React Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
@@ -173,6 +183,15 @@ Directions: Click to see my projects
       </tr>
             <td>» SheCodes React Add-On</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20010635.jpg" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+     <tr>
+        <td><bold>2. freeCodeCamp React Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013343.jpg" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+              <td>» Coming soon</td>
+        <td><img src="" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
@@ -211,6 +230,15 @@ Directions: Click to see my projects
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20005241.jpg" width="180" height="120" /></td>
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="https://replit.com/@KMD204/Week5AdvancedPython">💻</a></td>
       </tr>
+       <tr>
+        <td><bold>2. freeCodeCamp Python Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013404.jpg" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+              <td>» Coming soon</td>
+        <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
         </tbody>
   </table>
 </details>
@@ -239,6 +267,50 @@ Directions: Click to see my projects
             <td>» SheCodes Responsive Add-On</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20011104.jpg" width="180" height="120" /></td>
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
+      </tr>
+<br>
+<details>
+  <summary>🔙BACKEND JAVASCRIPT</summary>
+  <br>
+    <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Preview</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><bold>1. freeeCodeCamp Backend JS Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013455.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+              <td>» Coming Soon</td>
+        <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+
+      <details>
+  <summary>🐚BASH & SQL</summary>
+  <br>
+    <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Preview</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><bold>1. freeeCodeCamp Relational Database Projects</bold></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013431.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+              <td>» Coming Soon</td>
+        <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
         </tbody>
   </table>
