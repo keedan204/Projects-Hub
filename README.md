@@ -22,7 +22,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
       <tr>
         <td><bold>1. freeCodeCamp Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20215730.jpg" width="180" height="120" /></td>
-        <td><a href="">🌐</a> | <a href="https://www.freecodecamp.org/learn/full-stack-developer/">💻</a></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/">🌐</a> | <a href="https://www.freecodecamp.org/learn/full-stack-developer/">💻</a></td>
       </tr>
       <tr>
         <td>» Build A Cat Photo App</td>
@@ -238,6 +238,15 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
               <td>» Coming soon</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013404.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+       <tr>
+        <td><bold>3. Freelance Projects</bold></td>
+        <td><img src="https://cdn.prod.website-files.com/620e4101b2ce12a1a6bff0e8/6454eb0788ec074e1128a680_Gen%20z%20%26%20pop%20culture%20(7).jpg" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+              <td>»  Interactive Python App for Black Hair Care Routines</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20124452.jpg" width="180" height="120" /></td>
+        <td><a href="https://colab.research.google.com/drive/1J7esBKoNIP_wRmMdTIEzexsQaHUBV1dO?usp=sharing">🌐</a> | <a href="https://github.com/keedan204/Black-Hair-Care-Routine/blob/main/Black_Hair_Care_Routine.ipynb">💻</a></td>
       </tr>
     </tbody>
   </table>
