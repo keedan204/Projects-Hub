@@ -239,13 +239,14 @@ Directions: Click to see my projects
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013404.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
+    </tbody>
+  </table>
 </details>
-<br>
-
+     <br> 
 <details>
   <summary>🦘RESPONSIVE WEB DESIGNS</summary>
   <br>
-    <table>
+  <table>
     <thead>
       <tr>
         <th>Project</th>
@@ -291,11 +292,11 @@ Directions: Click to see my projects
               <td>» Coming Soon</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013455.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
-      
-  </tr>
-  </details>
-      <br>
-
+      </tr>
+    </tbody>
+  </table>
+</details>
+<br> 
 <details>
   <summary>🐚BASH & SQL</summary>
 <br>
