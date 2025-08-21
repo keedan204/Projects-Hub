@@ -107,7 +107,8 @@ Directions: Click to see my projects
       <tr>
         <td>» SheCodes Basics Add-On</td>
        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221431.jpg" width="180" height="120" /></td>
-        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/556/312/original/BasicAddOn_-_Final_Project.html?1739914330">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/556/312/original/BasicAddOn_-_Final_Project.html?1739914330">🌐</a> | <a href="">💻</a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -149,13 +150,9 @@ Directions: Click to see my projects
   </table>
 </details>
 <br>
-
 <details>
   <summary>🧬REACT PROJECTS</summary>
   <br>
-  <details>
-  <summary>🚀 HTML + CSS + JAVASCRIPT PROJECTS</summary>
-<br>
   <table>
     <thead>
       <tr>
