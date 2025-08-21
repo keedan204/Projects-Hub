@@ -242,7 +242,9 @@ Directions: Click to see my projects
         </tbody>
   </table>
 </details>
+
 <br>
+
 <details>
   <summary>🦘RESPONSIVE WEB DESIGNS</summary>
   <br>
@@ -269,6 +271,8 @@ Directions: Click to see my projects
         <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
       </tr>
 <br>
+    </details>
+      
 <details>
   <summary>🔙BACKEND JAVASCRIPT</summary>
   <br>
@@ -289,7 +293,9 @@ Directions: Click to see my projects
               <td>» Coming Soon</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20013455.jpg" width="180" height="120" /></td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
-      </tr>
+      
+  </tr>
+  </details>
       <br>
       <details>
   <summary>🐚BASH & SQL</summary>
