@@ -42,17 +42,57 @@ Directions: Click to see my projects
       <tr>
         <td>» Design A Cafe Menu</td>
     <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221737.jpg" width="180" height="120" /></td>
-        <td><a href="https://design-a-cafe-menu.netlify.app/">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://design-a-cafe-menu.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Design-A-Cafe-Menu/blob/main/index.html">💻</a></td>
       </tr>
         <tr>
         <td>» Design a Greeting Card</td>
            <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221807.jpg" width="180" height="120" /></td>
-        <td><a href="https://design-a-greeting-card.netlify.app/">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://design-a-greeting-card.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Design-A-Greeting-Card/blob/main/index.html">💻</a></td>
       </tr>
        <tr>
         <td>» Build a Set of Colored Markers</td>
              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221833.jpg" width="180" height="120" /></td>
-        <td><a href="https://build-a-set-of-colored-markers.netlify.app/">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-set-of-colored-markers.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Set-of-Colored-Markers/blob/main/index.html">💻</a></td>
+      </tr>
+       <tr>
+        <td>» Design a Registration Form</td>
+         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20233824.jpg" width="180" height="120" /></td>
+        <td><a href="https://design-a-registration-form.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Design-a-Registration-Form/blob/main/index.html">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Build a Rothko Painting</td>
+         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20235354.jpg" width="180" height="120" /></td>
+        <td><a href="https://build-a-rothko-painting.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Design-A-Rothko-Painting/blob/main/index.html">💻</a></td>
+      </tr>
+      <tr>
+        <td>» CSS Flexbox Photo Gallery</td>
+      <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20235733.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-flexbox-photo-gallery">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Build a Nutritional Label</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20000325.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-nutritional-label">🌐</a> | <a href="">💻</a></td>
+      </tr>
+           <tr>
+        <td>» Build a Quiz Webpage</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20000651.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-accessibility-quiz">🌐</a> | <a href="">💻</a></td>
+      </tr>
+           <tr>
+        <td>» Build a Cat Painting</td>
+      <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20001010.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-cat-painting">🌐</a> | <a href="">💻</a></td>
+      </tr>
+           <tr>
+        <td>» Build a Balance Sheet</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20001247.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-balance-sheet">🌐</a> | <a href="">💻</a></td>
+      </tr>
+              <tr>
+        <td>» Design a Piano</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20001545.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-piano">🌐</a> | <a href="">💻</a></td>
       </tr>
            <tr>
         <td><bold>2. SheCodes HTML Projects</bold></td>
@@ -68,26 +108,6 @@ Directions: Click to see my projects
         <td>» SheCodes Basics Add-On</td>
        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221431.jpg" width="180" height="120" /></td>
         <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/556/312/original/BasicAddOn_-_Final_Project.html?1739914330">🌐</a> | <a href="">💻</a></td>
-      </tr>
-      <tr>
-        <td>» Event Hub Page</td>
-        <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
-      </tr>
-      <tr>
-        <td>» Movie Review Page</td>
-        <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
-      </tr>
-      <tr>
-        <td>» Recipe Page</td>
-        <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
-      </tr>
-      <tr>
-        <td>» Survey Form</td>
-        <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
     </tbody>
   </table>
