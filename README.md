@@ -1,5 +1,4 @@
 # 🗂️ Projects-Hub - KeeDan204
-<hr>
 
 <h2>ℹ️ What Is This Hub?</h2>
 This Projects Hub reflects my journey as a self-taught full stack developer. It serves as a centralized place where I showcase all of my web development projects in its own dedicated repository. This hub is constantly evloving and growing and will be regularly updated as soon as a new project is deployed.
@@ -148,9 +147,15 @@ Coming 🔜
 
 
 
-<h2>📈 Future Goals</h2>
-<hr>
-Coming 🔜
+<h2>📈 Current & Future Goals</h2>
+My current focus is to move from a health services leadership role and parlay my tech skills into one of the following directions:
+  <ul>
+  <li>Clinical Solutions Developer (Remote or Hybrid)</li>
+  <li>Tech Strategist for Public Health Innovation Hubs</li>
+  <li>Healthcare Data Visualization Engineer</li>
+</ul>
+
+My future goals are to<em>evolve into advanced roles in cybersecurity, AI, systems design, and cloud architecture, driving innovation and building secure, scalable solutions.</em>
 <br>
 
 <h2>🛠️ Tech & Tools Used So Far</h2>
@@ -170,10 +175,10 @@ Code Sandbox (development environment)
 <h2>👩🏾💻 Author</h2>
 <hr>
 KeeDan204 — <i></i>Full Stack Developer (in Progress)</i>
-
+<br>
 🗓️ Year: 2025
-
+<br>
 🎯 Goal: Coming 🔜
-
+<br>
 <em>“I started this journey knowing the limited HTML I learned on my MySpace.com page back in 1999. Now, I can build, deploy, debug interactive and responsive websites with a backend foundation”</em>
 <br>
