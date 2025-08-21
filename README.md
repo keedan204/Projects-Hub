@@ -9,8 +9,111 @@ This Projects Hub reflects my journey as a self-taught full stack developer. It 
 📚 Projects Directory
 Directions: Click to see my projects
 
-📄 HTML PROJECTS
-Coming 🔜
+<details>
+  <summary>📄 HTML PROJECTS</summary>
+
+  <br>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Preview</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1. FreeCodeCamp Challenges</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Build A Cat Photo App</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Build A Cat Blog Page</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» HTML Forms</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+ <tr>
+        <td>» HTML Forms</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+       <tr>
+        <td>» HTML Forms</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+           <tr>
+        <td>2. FreeCodeCamp Projects</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Book Catalog Table</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Checkout Page</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Event Hub Page</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Movie Review Page</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Recipe Page</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Survey Form</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Travel Agency Page</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Video Compilation Page</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>3. The Little Taco Shop Website</td>
+        <td>Site preview image.</td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+
+        Build a Set of Colored Markers
+
  
 
 🎨 HTML + CSS PROJECTS
