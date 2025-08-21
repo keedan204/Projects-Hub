@@ -57,17 +57,17 @@ Directions: Click to see my projects
         <td><a href="https://build-a-set-of-colored-markers.netlify.app/">🌐</a> | <a href="">💻</a></td>
       </tr>
            <tr>
-        <td>2. SheCodes HTML Projects</td>
-        <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><bold>2. SheCodes HTML Projects</bold>bold></td>
+             <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
       <tr>
-        <td>» Book Catalog Table</td>
-        <td>Site preview image.</td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td>» SheCodes Basics</td>
+          <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220426.jpg" width="180" height="120" /></td>
+        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/550/018/original/Project_Ice_Cream.html?1739397008">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
-        <td>» Checkout Page</td>
+        <td>» SheCodes Basics Add-On</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
