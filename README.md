@@ -360,6 +360,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <ul>
 <li><b>HTML5, CSS3, JavaScript</b> (front & backend)</li> 
 <li><b>Visual Studio Code</b> (IDE)</li>
+  <li><b>CodePen</b> (online code editor)</li>
 <li><b>Git & GitHub</b> (CLI + Desktop)</li>
 <li><b>Netlify</b> (site deployment)</li>
   <li><b>Bootstrap</b> (CSS Framework for developing responsive and mobile-first websites)</li>
