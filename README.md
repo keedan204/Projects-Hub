@@ -42,19 +42,16 @@ Directions: Click to see my projects
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
       <tr>
- <tr>
         <td>» Design A Cafe Menu</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
-      <tr>
         <tr>
         <td>» Design a Greeting Card</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
       </tr>
        <tr>
-          <tr>
         <td>» Build a Set of Colored Markers</td>
         <td>Site preview image.</td>
         <td><a href="">🌐</a> | <a href="">💻</a></td>
