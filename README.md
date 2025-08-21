@@ -135,7 +135,7 @@ https://replit.com/@KMD204/Week5AdvancedPython
   <br>
 Coming 🔜
 </details>
-<br>
+
 <h2>📈 Current & Future Goals</h2>
 <h3>🔹 Current Focus</h3>
 
@@ -160,7 +160,7 @@ Coming 🔜
 <h3>🔹 Future Goals</h3>
 
 <p>As I gain experience and expand my technical foundation, I aim to grow into advanced roles in <strong>cybersecurity</strong>, <strong>AI</strong>, <strong>systems design</strong>, and <strong>cloud architecture</strong>—with the overarching goal of driving innovation and building secure, scalable digital solutions for the healthcare and public health sectors.</p>
-<br>
+
 <h2>🛠️ Tech & Tools Used So Far</h2>
 <ul>
 <li>HTML5, CSS3, JavaScript, Node.js, Python, React</li>
@@ -174,11 +174,8 @@ Coming 🔜
 <li>Replit (online coding environment)</li>
 <li>Code Sandbox (development environment)</li>
 </ul>
-<br>
+
 <h2>👩🏾💻 Author</h2>
-KeeDan204 — <i></i>Full Stack Developer (recent grad)</i>
-<br>
-🗓️ Year: September 2025
-<br>
-<em>“I started this journey knowing the limited HTML I learned on my MySpace.com page back in 1999. Now, I can build, deploy, debug interactive and responsive websites with a backend foundation”</em>
-<br>
+<p>KeeDan204 — <i>Full Stack Developer (recent grad)</i></p>
+<p>🗓️ Year: September 2025</p>
+<p><em>“"I started this journey armed with nothing but the HTML I hacked into my MySpace profile in 1999. Now I build, deploy, and debug full-stack web apps that do a lot more than autoplay R&B love songs."”</em></p>
