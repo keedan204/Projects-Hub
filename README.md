@@ -67,7 +67,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
       <tr>
         <td>» CSS Flexbox Photo Gallery</td>
       <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20235733.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-flexbox-photo-gallery">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://app.netlify.com/projects/build-a-flexbox-photo-gallery/overview">🌐</a> | <a href="https://github.com/keedan204/Build-a-Flexbox-Photo-Gallery/blob/main/index.html">💻</a></td>
       </tr>
       <tr>
         <td>» Build a Nutritional Label</td>
