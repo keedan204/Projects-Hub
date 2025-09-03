@@ -182,13 +182,13 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
-              <td>» SheCodes React</td>
+              <td>» SheCodes React - Weather App</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003809.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://react-weather-app-final.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/react-weather-app">💻</a></td>
       </tr>
-            <td>» SheCodes React Add-On</td>
+            <td>» SheCodes React Add-On - Dictionary App</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20010635.jpg" width="180" height="120" /></td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://react-dictionary-search-engine.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/react-dictionary-search-engine">💻</a></td>
       </tr>
      <tr>
         <td><bold>2. freeCodeCamp Projects</bold></td>
