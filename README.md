@@ -107,7 +107,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
       <tr>
         <td>» SheCodes Basics - Build My First Landing Page</td>
           <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220426.jpg" width="180" height="120" /></td>
-        <td><a href="shecodes-first-landing-page-keedan204.netlify.app">🌐</a> | <a href="https://github.com/keedan204/Build-First-Landing-Page">💻</a></td>
+        <td><a href="https://shecodes-first-landing-page-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-First-Landing-Page">💻</a></td>
       </tr>
     </tbody>
   </table>
