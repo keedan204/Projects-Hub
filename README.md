@@ -20,7 +20,17 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
     </thead>
     <tbody>
       <tr>
-        <td><bold>1. freeCodeCamp Projects</bold></td>
+        <td><bold>1. SheCodes Project</bold></td>
+             <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
+        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
+      </tr>
+      <tr>
+        <td>» SheCodes Basics - Build My First Landing Page</td>
+          <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220426.jpg" width="180" height="120" /></td>
+        <td><a href="https://shecodes-first-landing-page-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-First-Landing-Page">💻</a></td>
+      </tr>
+      <tr>
+        <td><bold>2. freeCodeCamp Projects</bold></td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20215730.jpg" width="180" height="120" /></td>
         <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/">🌐</a> | <a href="https://www.freecodecamp.org/learn/full-stack-developer/">💻</a></td>
       </tr>
@@ -98,16 +108,6 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td>» Build a Technical Documentation Page</td>
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-22%20200108.jpg" width="180" height="120" /></td>
         <td><a href="https://build-a-technical-documentation-page.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/build-a-technical-documentation-page/blob/main/index.html">💻</a></td>
-      </tr>
-           <tr>
-        <td><bold>2. SheCodes Project</bold></td>
-             <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
-      </tr>
-      <tr>
-        <td>» SheCodes Basics - Build My First Landing Page</td>
-          <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220426.jpg" width="180" height="120" /></td>
-        <td><a href="https://shecodes-first-landing-page-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-First-Landing-Page">💻</a></td>
       </tr>
     </tbody>
   </table>
