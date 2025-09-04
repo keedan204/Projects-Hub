@@ -67,32 +67,32 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
       <tr>
         <td>» CSS Flexbox Photo Gallery</td>
       <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20235733.jpg" width="180" height="120" /></td>
-        <td><a href="https://app.netlify.com/projects/build-a-flexbox-photo-gallery/overview">🌐</a> | <a href="https://github.com/keedan204/Build-a-Flexbox-Photo-Gallery/blob/main/index.html">💻</a></td>
+        <td><a href="https://build-a-flexbox-photo-gall-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-a-Flexbox-Photo-Gallery">💻</a></td>
       </tr>
       <tr>
         <td>» Build a Nutritional Label</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20000325.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-nutritional-label">🌐</a> | <a href="https://github.com/keedan204/Build-a-Nutritional-Label">💻</a></td>
+        <td><a href="https://building-a-nutrional-label.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-a-Nutritional-Label">💻</a></td>
       </tr>
            <tr>
         <td>» Build a Quiz Webpage</td>
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20000651.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-accessibility-quiz">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-quiz-webpage-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/build-a-quiz-webpage">💻</a></td>
       </tr>
            <tr>
         <td>» Build a Cat Painting</td>
       <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20001010.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-cat-painting">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-cat-painting.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Cat-Painting">💻</a></td>
       </tr>
            <tr>
         <td>» Build a Balance Sheet</td>
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20001247.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-balance-sheet">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-balance-sheet-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Balance-Sheet">💻</a></td>
       </tr>
               <tr>
         <td>» Design a Piano</td>
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20001545.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.freecodecamp.org/learn/full-stack-developer/#workshop-piano">🌐</a> | <a href="">💻</a></td>
+        <td><a href="https://build-a-piano-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Piano">💻</a></td>
       </tr>
       <tr>
         <td>» Build a Technical Documentation Page</td>
@@ -100,20 +100,14 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td><a href="https://build-a-technical-documentation-page.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/build-a-technical-documentation-page/blob/main/index.html">💻</a></td>
       </tr>
            <tr>
-        <td><bold>2. SheCodes Projects</bold></td>
+        <td><bold>2. SheCodes Project</bold></td>
              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
       <tr>
-        <td>» SheCodes Basics</td>
+        <td>» SheCodes Basics - Build My First Landing Page</td>
           <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220426.jpg" width="180" height="120" /></td>
-        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/550/018/original/Project_Ice_Cream.html?1739397008">🌐</a> | <a href="">💻</a></td>
-      </tr>
-      <tr>
-        <td>» SheCodes Basics Add-On</td>
-       <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221431.jpg" width="180" height="120" /></td>
-        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/556/312/original/BasicAddOn_-_Final_Project.html?1739914330">🌐</a> | <a href="">💻</a>
-        </td>
+        <td><a href="shecodes-first-landing-page-keedan204.netlify.app">🌐</a> | <a href="https://github.com/keedan204/Build-First-Landing-Page">💻</a></td>
       </tr>
     </tbody>
   </table>
@@ -136,20 +130,26 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20220940.jpg" width="180" height="120" /></td>
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
-      <tr>
-        <td>» SheCodes + - Weather project (Vanilla JS)</td>
-        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20002144.jpg" width="180" height="120" /></td>
-        <td><a href="https://shecode-weather-forecast-project.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Weather-Forecast-Project">💻</a></td>
+       <tr>
+        <td>» SheCodes Basics Add-On - Build My Hobby Page</td>
+       <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20221431.jpg" width="180" height="120" /></td>
+        <td><a href="https://build-a-hobby-page-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-My-Hobby-Page">💻</a>
+        </td>
       </tr>
       <tr>
-        <td>» SheCodes +AI Love Poem Generator</td>
+        <td>» SheCodes Plus - Weather project (Vanilla JS)</td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20002144.jpg" width="180" height="120" /></td>
+        <td><a href="https://weather-forecast-project-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Weather-Forecast-Project">💻</a></td>
+      </tr>
+      <tr>
+        <td>» SheCodes Plus - AI Love Poem Generator</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20002704.jpg" width="180" height="120" /></td>
-        <td><a href="https://love-poems-204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/love-poem-generator">💻</a></td>
+        <td><a href="https://love-poems-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/love-poem-generator">💻</a></td>
       </tr>
     <tr>
-        <td>» SheCodes +Add-On - World Clock</td>
+        <td>» SheCodes Plus Add-On - World Clock</td>
         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20003138.jpg" width="180" height="120" /></td>
-        <td><a href="https://world-clock-project204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/World-Clock">💻</a></td>
+        <td><a href="https://world-clock-project-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/World-Clock">💻</a></td>
       </tr>
       <tr>
         <td><bold>2. freeCodeCamp Projects</bold></td>
@@ -379,9 +379,10 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <li><b>Replit</b> (online coding environment)</li>
 <li><b>Code Sandbox</b> (development environment)</li>
   <li><b>Slack</b> (cloud-based team communication platform) </li>
+  <li><b>Miro</b> (wireframing the skeletal framework of websites</li>
 </ul>
 <br>
 <h2>👩🏾💻 Author</h2>
 <p>KeeDan204 — <i>Full Stack Developer (recent grad)</i></p>
-<p>🗓️ Date: September 2025</p>
+<p>🗓️ Date: October 2025</p>
 <p><em>“I started this journey armed with nothing but the HTML I used to hack my MySpace profile in 1999. These days, I build, deploy, and debug full-stack web apps that do a lot more than autoplay R&B slow jams with a pixelated background stretched to infinity.”</em></p>
