@@ -379,7 +379,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <li><b>Replit</b> (online coding environment)</li>
 <li><b>Code Sandbox</b> (development environment)</li>
   <li><b>Slack</b> (cloud-based team communication platform) </li>
-  <li><b>Miro</b> (wireframing the skeletal framework of websites</li>
+  <li><b>Miro</b> (wireframing the skeletal framework of websites)</li>
 </ul>
 <br>
 <h2>👩🏾💻 Author</h2>
