@@ -342,9 +342,9 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <p>I am transitioning from a leadership role in health services to pursue a career in tech, where I can combine my domain expertise with my growing technical skill set. My goal is to move into one (or more) of the following roles:</p>
 
 <ul>
-  <li><bold>Clinical Solutions Developer</li>
-  <li>Tech Strategist for Public Health Innovation Hubs</li>
-  <li>Healthcare Data Visualization Engineer</bold></li>
+  <li><bold>Clinical Solutions Developer</bold></li>
+  <li><bold>Tech Strategist for Public Health Innovation Hubs</bold></li>
+  <li><bold>Healthcare Data Visualization Engineer</bold></li>
 </ul>
 
 <p>To achieve this, I am currently focused on:</p>
