@@ -344,7 +344,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <ul>
   <li><bold>Clinical Solutions Developer</li>
   <li>Tech Strategist for Public Health Innovation Hubs</li>
-  <li>Healthcare Data Visualization Engineer</li></bold></li>
+  <li>Healthcare Data Visualization Engineer</bold></li>
 </ul>
 
 <p>To achieve this, I am currently focused on:</p>
