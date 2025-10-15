@@ -383,6 +383,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 </ul>
 <br>
 <h2>👩🏾💻 Author</h2>
-<p>KeeDan204 — <i>Full Stack Developer (recent grad)</i></p>
+<p>KeeDan204 — <i>Junior Developer (recent grad)</i></p>
 <p>🗓️ Date: October 2025</p>
+<img src="https://github.com/keedan204/keedan204/blob/main/98fda6ee8f14860c530dbc2319017e46.png" width="380" height="320" />
 <p><em>“I started this journey armed with nothing but the HTML I used to hack my MySpace profile in 1999. These days, I build, deploy, and debug full-stack web apps that do a lot more than autoplay R&B slow jams with a pixelated background stretched to infinity.”</em></p>
