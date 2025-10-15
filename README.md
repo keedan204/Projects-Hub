@@ -275,12 +275,12 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td><a href="https://www.shecodes.io/">🌐</a> | <a href="https://www.shecodes.io/">💻</a></td>
       </tr>
               <td>» SheCodes Responsive</td>
-        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20010855.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-10-14%20214143.png?raw=true" width="180" height="120" /></td>
+        <td><a href="https://keedan204-responsive-final-project.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Responsive-Week-Four-Homework">💻</a></td>
       </tr>
             <td>» SheCodes Responsive Add-On</td>
-        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-21%20011104.jpg" width="180" height="120" /></td>
-        <td><a href="https://www.weather.shecodes.io/">🌐</a> | <a href="">💻</a></td>
+        <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-10-14%20213942.png?raw=true" width="180" height="120" /></td>
+        <td><a href="https://barbadostravelkeedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/SheCodes_Travel_Project">💻</a></td>
       </tr>
     </tbody>
   </table>
