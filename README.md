@@ -109,6 +109,12 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-22%20200108.jpg" width="180" height="120" /></td>
         <td><a href="https://build-a-technical-documentation-page.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/build-a-technical-documentation-page/blob/main/index.html">💻</a></td>
       </tr>
+      <tr>
+        <td>» Build a City Skyline</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-10-21%20203640.png" width="90" height="60" />
+              <img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-10-21%20203707.png" width="90" height="60" /></td>
+        <td><a href="https://build-a-city-skyline.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/build-a-city-skyline-keedan204">💻</a></td>
+      </tr>
     </tbody>
   </table>
 </details>
