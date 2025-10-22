@@ -8,7 +8,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <p>Directions: Click to see my projects</p>
 <br>
 <details>
-  <summary>🎨 HTML + CSS PROJECTS</summary>
+  <summary><strong>🎨 HTML + CSS PROJECTS</strong></summary>
   <br>
   <table>
     <thead>
@@ -140,7 +140,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 </details>
 <br>
 <details>
-  <summary>🚀 HTML + CSS + JAVASCRIPT PROJECTS</summary>
+  <summary><strong>🚀 HTML + CSS + JAVASCRIPT PROJECTS</strong></summary>
 <br>
   <table>
     <thead>
@@ -192,7 +192,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 </details>
 <br>
 <details>
-  <summary>🧬REACT PROJECTS</summary>
+  <summary><strong>🧬REACT PROJECTS</strong></summary>
   <br>
   <table>
     <thead>
@@ -230,7 +230,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 </details>
 <br>
 <details>
-  <summary>🐍PYTHON PROJECTS</summary>
+  <summary><strong>🐍PYTHON PROJECTS</strong></summary>
   <br>
     <table>
     <thead>
@@ -284,7 +284,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 </details>
      <br> 
 <details>
-  <summary>🦘RESPONSIVE WEB DESIGNS</summary>
+  <summary><strong>🦘RESPONSIVE WEB DESIGNS</strong></summary>
   <br>
   <table>
     <thead>
@@ -313,7 +313,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 </details>
      <br> 
 <details>
-  <summary>🔙BACKEND JAVASCRIPT</summary>
+  <summary><strong>🔙BACKEND JAVASCRIPT</strong></summary>
   <br>
     <table>
     <thead>
@@ -338,7 +338,7 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 </details>
 <br> 
 <details>
-  <summary>🐚BASH & SQL</summary>
+  <summary><strong>🐚BASH & SQL</strong></summary>
 <br>
   <table>
     <thead>
