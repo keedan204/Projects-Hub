@@ -115,6 +115,26 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
               <img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-10-21%20203707.png" width="90" height="60" /></td>
         <td><a href="https://build-a-city-skyline.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/build-a-city-skyline-keedan204">💻</a></td>
       </tr>
+          <tr>
+        <td>» Build an Availability Table</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-10-21%20205408.png" width="180" height="120" /></td>
+        <td><a href="https://build-an-availability-table-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-An-Availability-Table">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Build a Magazine</td>
+              <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+      <tr>
+        <td>» Design a Newspaper Layout</td>
+              <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
+          <tr>
+        <td>» Product Landing Page</td>
+              <td><img src="" width="180" height="120" /></td>
+        <td><a href="">🌐</a> | <a href="">💻</a></td>
+      </tr>
     </tbody>
   </table>
 </details>
