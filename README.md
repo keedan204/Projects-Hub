@@ -69,6 +69,11 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
          <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20233824.jpg" width="180" height="120" /></td>
         <td><a href="https://design-a-registration-form.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Design-a-Registration-Form/blob/main/index.html">💻</a></td>
       </tr>
+            <tr>
+        <td>» Build a Game Settings Panel</td>
+         <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-12-05%20145850.png" width="180" height="120" /></td>
+        <td><a href="https://build-a-game-settings-panel-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-a-Game-Settings-Panel/blob/main/index.html">💻</a></td>
+      </tr>
       <tr>
         <td>» Build a Rothko Painting</td>
          <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-08-20%20235354.jpg" width="180" height="120" /></td>
