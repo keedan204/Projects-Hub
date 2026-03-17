@@ -370,27 +370,25 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
 <h2>📈 Current & Future Goals</h2>
 <h3>🔹 Current Focus</h3>
 
-<p>I am transitioning from a leadership role in health services to pursue a career in tech, where I can combine my domain expertise with my growing technical skill set. My goal is to move into one (or more) of the following roles:</p>
+<p> I am a healthcare operations leader with 15+ years of experience in community health, currently transitioning into tech to bridge the gap between healthcare systems and digital innovation. I bring a strong foundation in program management, stakeholder engagement, and equity-focused service design, now combined with a growing technical skill set in web development. </p> 
 
-<ul>
-  <li><bold>Clinical Solutions Developer</bold></li>
-  <li><bold>Tech Strategist for Public Health Innovation Hubs</bold></li>
-  <li><bold>Healthcare Data Visualization Engineer</bold></li>
-</ul>
+<p> My goal is to move into roles that sit at the intersection of healthcare, technology, and systems thinking, including: </p> 
 
-<p>To achieve this, I am currently focused on:</p>
-
-<ul>
-  <li>Landing my first junior developer role to deepen my real-world experience</li>
-  <li>Contributing to open-source projects and exploring freelance opportunities</li>
-  <li>Building web applications that address real-world problems</li>
-  <li>Improving performance, accessibility, and responsiveness in everything I build</li>
-  <li>Staying current with the latest frontend technologies, tools, and best practices</li>
-</ul>
+<ul> <li><strong>Clinical Solutions Developer</strong></li> 
+  <li><strong>Digital Health / Public Health Tech Strategist</strong></li> 
+  <li><strong>Healthcare Data & Visualization Engineer</strong></li> </ul>
+  
+<p> I am currently focused on: </p> 
+<ul> <li>Securing a developer or technical project role to build real-world experience</li> 
+  <li>Applying my project management background (PMP in progress) to tech-driven initiatives</li> 
+  <li>Building practical, user-centered web applications that solve real healthcare and community challenges</li> 
+  <li>Strengthening my skills in frontend development, performance, accessibility, and responsive design</li> 
+  <li>Collaborating on open-source and community-driven projects aligned with equity and public health</li> </ul> 
 
 <h3>🔹 Future Goals</h3>
+  
+  <p> As I continue to grow, I am intentionally working toward advanced roles in <strong>cybersecurity</strong>, <strong>systems design</strong>, and <strong>cloud-based solutions</strong>, with a focus on building secure, scalable, and culturally responsive technologies that support healthcare systems and underserved communities. </p>
 
-<p>As I gain experience and expand my technical foundation, I aim to grow into advanced roles in <strong>cybersecurity</strong>, <strong>AI</strong>, <strong>systems design</strong>, and <strong>cloud architecture</strong>—with the overarching goal of driving innovation and building secure, scalable digital solutions for the healthcare and public health sectors.</p>
 <br>
 <h2>🛠️ Tech & Tools Used So Far</h2>
 <ul>
