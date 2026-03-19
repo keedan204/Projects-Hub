@@ -144,6 +144,11 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-19%20122320.png" width="180" height="120" /></td>
         <td><a href="https://keedan204-build-a-product-landingpage.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-a-Product-Landing-Page">💻</a></td>
       </tr>
+       <tr>
+        <td>» Build a Ferris Wheel</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-19%20124240.png" width="180" height="120" /></td>
+        <td><a href="https://keedan204-build-a-ferriswheel.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-an-Animated-Ferris-Wheel">💻</a></td>
+      </tr>
     </tbody>
   </table>
 </details>
