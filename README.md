@@ -124,21 +124,25 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
         <td>» Build an Availability Table</td>
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202025-10-21%20205408.png" width="180" height="120" /></td>
         <td><a href="https://build-an-availability-table-keedan204.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-An-Availability-Table">💻</a></td>
-      </tr>
+          </tr>
       <tr>
+        <td>» Design a Pricing Plans Layout Page</td>
+              <td><img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/179/092/original/Screenshot_2026-03-17_171103.png?1773786222" width="180" height="120" /></td>
+        <td><a href="https://keedan204-design-pricing-plan-page.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Design-a-Pricing-Plans-Layout-Page">💻</a></td>
+      </tr><tr>
         <td>» Build a Magazine</td>
-              <td><img src="" width="180" height="120" /></td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-17%20191312.png" width="180" height="120" /></td>
+        <td><a href="https://keedan204-build-a-magazine.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-a-Magazine">💻</a></td>
       </tr>
       <tr>
         <td>» Design a Newspaper Layout</td>
-              <td><img src="" width="180" height="120" /></td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-17%20192555.png" width="180" height="120" /></td>
+        <td><a href="https://keedan204-design-a-newspaper-layout.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Design-A-Newspaper-Layout">💻</a></td>
       </tr>
           <tr>
         <td>» Product Landing Page</td>
-              <td><img src="" width="180" height="120" /></td>
-        <td><a href="">🌐</a> | <a href="">💻</a></td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-19%20122320.png" width="180" height="120" /></td>
+        <td><a href="https://keedan204-build-a-product-landingpage.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-a-Product-Landing-Page">💻</a></td>
       </tr>
     </tbody>
   </table>
