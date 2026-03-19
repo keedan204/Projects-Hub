@@ -154,6 +154,16 @@ This Projects Hub showcases my journey as a self-taught full stack developer. It
               <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-19%20125159.png" height="120" /></td>
         <td><a href="https://keedan204-build-a-moonorbit.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Moon-Orbit">💻</a></td>
       </tr>
+         <tr>
+        <td>» Build a Personal Portfolio</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-19%20130935.png" height="120" /></td>
+        <td><a href="https://keedan204build-a-personal-portfolio.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-a-Personal-Portfolio">💻</a></td>
+      </tr>
+          <tr>
+        <td>» Build a Flappy Penguin</td>
+              <td><img src="https://github.com/keedan204/keedan204/blob/main/Screenshot%202026-03-19%20125657.png" height="120" /></td>
+        <td><a href="https://keedan204build-a-flappypenguin.netlify.app/">🌐</a> | <a href="https://github.com/keedan204/Build-A-Flappy-Penguin">💻</a></td>
+      </tr>
     </tbody>
   </table>
 </details>
